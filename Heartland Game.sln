@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DB8E4A1F-C572-8287-7E4A-E6D8EABE8290}") = "Heartland Game", "Assembly-CSharp.csproj", "{DA3856E2-B9B3-3673-D2EC-EC549825332D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA3856E2-B9B3-3673-D2EC-EC549825332D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3856E2-B9B3-3673-D2EC-EC549825332D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3856E2-B9B3-3673-D2EC-EC549825332D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3856E2-B9B3-3673-D2EC-EC549825332D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
